@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.69bc6123.css",
+    "main.css": "/static/css/main.5e915b16.css",
     "main.js": "/static/js/main.6d617830.js",
     "static/media/HKUMed.png": "/static/media/HKUMed.5b7573f93b0a4105cb84.png",
     "static/media/Chapel.png": "/static/media/Chapel.cdac55b877d2be5735de.png",
@@ -16,11 +16,11 @@
     "static/media/1.png": "/static/media/1.dbd17879efd7832e29f0.png",
     "static/media/logo.svg": "/static/media/logo.01328229bdbe2ffa2606048c6241c917.svg",
     "index.html": "/index.html",
-    "main.69bc6123.css.map": "/static/css/main.69bc6123.css.map",
+    "main.5e915b16.css.map": "/static/css/main.5e915b16.css.map",
     "main.6d617830.js.map": "/static/js/main.6d617830.js.map"
   },
   "entrypoints": [
-    "static/css/main.69bc6123.css",
+    "static/css/main.5e915b16.css",
     "static/js/main.6d617830.js"
   ]
 }
