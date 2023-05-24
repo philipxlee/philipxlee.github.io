@@ -17,6 +17,7 @@ function Experience() {
           <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
+          contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -32,6 +33,7 @@ function Experience() {
         {/* <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
+          contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -47,6 +49,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
+          contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon/>}
         >
