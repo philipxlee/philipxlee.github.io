@@ -3,6 +3,7 @@ import React from 'react';
 import HKUMed from '../img/projects/HKUMed.png';
 import YouTubePic from '../img/projects/Youtube.png';
 import Battleship from '../img/projects/BattleshipProject.jpg';
+import DukeBackground from '../img/about/Chapel.png';
 // import link
 import { Link } from 'react-router-dom';
 // import motion
@@ -132,10 +133,12 @@ const Projects = () => {
             </div>
           </motion.div>
         </div>
+
+
       <br />
       <br />
       <br />
-        <br />
+      <br />
         </div>
 
 

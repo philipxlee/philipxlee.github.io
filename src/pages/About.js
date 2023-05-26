@@ -74,7 +74,7 @@ const About = () => {
           <h1 className='h1'>About Me</h1>
             <p>
               I'm a current student at Duke University majoring in Computer Science.
-              I am enthusiastic about exploring new technologies, solving problems,
+              I'm enthusiastic about exploring new technologies, solving problems,
               furthering innovation, and conducting research.
               <br />
               <br />
@@ -83,9 +83,9 @@ const About = () => {
                back-end technologies, gaining a deeper appreciation for software development.
               <br />
               <br />
-              Outside of working on my own projects, I enjoy playing basketball, watching Formula 1,
+              Outside of working on my own projects, I enjoy playing basketball, following Formula 1,
               and exploring the outdoors. I also love playing strategy-based board games like Chess, 
-              working out, historical documentaries, and creative writing.
+              working out, and watching historical documentaries.
             </p>
           <br />
           <br />

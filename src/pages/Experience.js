@@ -14,7 +14,8 @@ function Experience() {
     <div className="section">
       <VerticalTimeline lineColor="#3e497a">
 
-          <VerticalTimelineElement
+{/*
+           <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
           contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
@@ -22,15 +23,17 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          {/* <img src={} width="150" height="50"/> */}
+         <img src={} width="150" height="50"/> 
           <b>  To Be Updated in Summer 2023</b>
           </h3>
-          {/* <p> Software Engineer Intern</p>
-          <p> June 2023 – August 2023 </p> */}
-        </VerticalTimelineElement>
+           <p> Software Engineer Intern</p>
+          <p> June 2023 – August 2023 </p> 
+        </VerticalTimelineElement> 
+
+        */}
 
 
-        {/* <VerticalTimelineElement
+         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
           contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
@@ -42,8 +45,10 @@ function Experience() {
           <b>  Hong Kong Productivity Council </b>
           </h3>
           <p> Software Engineer Intern</p>
-          <p> June 2023 – August 2023 </p>
-        </VerticalTimelineElement> */}
+          <p> June 2023 – Present </p>
+        </VerticalTimelineElement> 
+
+       
 
 
         <VerticalTimelineElement
