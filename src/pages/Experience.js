@@ -23,13 +23,14 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-         <img src={} width="150" height="50"/> 
+      <img src={} width="150" height="50"/>  
           <b>  To Be Updated in Summer 2023</b>
           </h3>
-           <p> Software Engineer Intern</p>
+       <p> Software Engineer Intern</p>
           <p> June 2023 – August 2023 </p> 
         </VerticalTimelineElement> 
 
+        
         */}
 
 

@@ -3,6 +3,7 @@ import React from 'react';
 import HKUMed from '../img/projects/HKUMed.png';
 import YouTubePic from '../img/projects/Youtube.png';
 import Battleship from '../img/projects/BattleshipProject.jpg';
+import TyrePic from '../img/projects/Tyre.png';
 import DukeBackground from '../img/about/Chapel.png';
 // import link
 import { Link } from 'react-router-dom';
@@ -50,6 +51,38 @@ const Projects = () => {
 
 
     {/*PROJECTS BELOW*/}
+    <div className='container mx-auto  relative'>
+        {/* text & img wrapper */}
+        <div className=' flex flex-col lg:flex-row items-center justify-center gap-x-24 text-center lg:text-left lg:pt-20'>
+          {/* image */}
+          <div className='flex-1 max-h-96 lg:max-h-max order-2 lg:order-none overflow-hidden'>
+            <img src={TyrePic} alt='' />
+          </div> <motion.div
+            initial={{ opacity: 0, y: '-80%' }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: '-80%' }}
+            transition={transition1}
+            className='flex-1 pt-10 pb-14 lg:pt-0 lg:w-auto z-10 flex flex-col justify-center items-center lg:items-start'
+          >
+            <h3 className='h3'>Tyre - Formula 1</h3>
+            <div className="projectDescriptionsMobile">
+            <p>
+              An app for Formula 1 enthusiasts featuring a Fantasy F1 feature modeled after ESPN's "Fantasy Football", allowing
+              users to compete against other users after creating their own teams. Tyre also includes
+              data visualization features for race analytics and car specifications.
+              <br />
+              <br />
+              Implemented using the MERN stack. 
+              <br/>
+              Currently under development. To be updated.
+              <br />
+              <br />
+            </p>
+            </div>
+          </motion.div>
+        </div>
+</div>
+    
       <div className='container mx-auto  relative'>
         {/* text & img wrapper */}
         <div className=' flex flex-col lg:flex-row items-center justify-center gap-x-24 text-center lg:text-left lg:pt-20'>
@@ -78,7 +111,9 @@ const Projects = () => {
             </div>
           </motion.div>
         </div>
-        </div> <div className='container mx-auto relative'>
+        </div> 
+
+        <div className='container mx-auto relative'>
         <div className='flex flex-col lg:flex-row items-center justify-center gap-x-24 text-center lg:text-left lg:pt-20'>
           {/* image */}
           <div className='flex-1 max-h-96 lg:max-h-max order-2 lg:order-none overflow-hidden'>
