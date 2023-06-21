@@ -8,6 +8,7 @@ import SchoolIcon from '@mui/icons-material/School';
 import WorkIcon from '@mui/icons-material/Work'; // use for Work experience
 import DukeLogo from '../img/experience/DukeLogo.png';
 import HKPCLogo from '../img/experience/HKPCLogo.jpg';
+import Eat100 from '../img/experience/Eat100Logo.png';
 
 function Experience() {
   return (
@@ -33,6 +34,23 @@ function Experience() {
         
         */}
 
+      <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date=""
+          contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+          <img src={Eat100} width="150" height="50"/>
+          <br></br>
+          <b>  T Square </b>
+          </h3>
+          <p> Software Engineer Intern</p>
+          <p> Jul. 2023 – Sep. 2023 (Part-Time, Remote) </p>
+        </VerticalTimelineElement> 
+
+
 
          <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -46,7 +64,7 @@ function Experience() {
           <b>  Hong Kong Productivity Council </b>
           </h3>
           <p> Software Engineer Intern</p>
-          <p> June 2023 – Present </p>
+          <p> Jun. 2023 – Aug. 2023 (Full-Time, On-site) </p>
         </VerticalTimelineElement> 
 
        
