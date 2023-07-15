@@ -8,7 +8,7 @@ import SchoolIcon from '@mui/icons-material/School';
 import WorkIcon from '@mui/icons-material/Work'; // use for Work experience
 import DukeLogo from '../img/experience/DukeLogo.png';
 import HKPCLogo from '../img/experience/HKPCLogo.jpg';
-import Eat100 from '../img/experience/Eat100Logo.png';
+import Eat100 from '../img/experience/Eat100.png';
 
 function Experience() {
   return (
@@ -42,9 +42,9 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          <img src={Eat100} width="150" height="50"/>
+          <img src={Eat100} width="110" height="110"/>
           <br></br>
-          <b>  T Square </b>
+          <b>  Eat-100 (T Square) </b>
           </h3>
           <p> Software Engineer Intern</p>
           <p> Jul. 2023 – Sep. 2023 (Part-Time, Remote) </p>
