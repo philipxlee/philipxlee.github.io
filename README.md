@@ -4,7 +4,7 @@
 Here, you will find informaiton about me, including my background,
 interests, projects, and experience. </h3>
 
-<br/>
-
-<h4 align="right"> <strong> Made with  ❤ </strong>- Sincerely, Philip</h4>
+<div style="text-align: right">
+  <h4 align="right"><strong>Made with ❤</strong><br/>- Philip</h4>
+</div>
 
