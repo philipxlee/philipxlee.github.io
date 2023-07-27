@@ -71,11 +71,11 @@ const About = () => {
       <br/>
       <br/>
         <div className="bio">
+          <br />
           <h1 className='h1'>About Me</h1>
             <p>
               I'm a current student at Duke University majoring in Computer Science.
-              I'm enthusiastic about exploring new technologies, solving problems,
-              furthering innovation, and conducting research.
+              I'm enthusiastic about exploring new technologies, solving problems, and furthering innovation.
               <br />
               <br />
               I began my programming journey in high school, creating front-end projects 
@@ -83,18 +83,21 @@ const About = () => {
                back-end technologies, gaining a deeper appreciation for software development.
               <br />
               <br />
-              Outside of working on my own projects, I enjoy playing basketball, following Formula 1,
-              and exploring the outdoors. I also love playing strategy-based board games like Chess, 
-              working out, and watching historical documentaries.
+              Outside of working on my projects, I've interned at two tech firms. At HKPC, I worked on
+              a full stack project involving data pipelines. At Eat 100, I worked on developing the payment 
+              gateway and implementing features for the mobile app.
+              <br />
+              <br />
+              In addition to programming, I enjoy playing basketball, following Formula 1,
+              and exploring the outdoors. I also love playing Chess, working out, watching historical documentaries, 
+              and doing the New York Times crossword puzzle.
             </p>
           <br />
           <br />
           <br />
           <br />
         </div>
-
       {/*TECHNICAL SKILLS SECTION*/}
-
       <div className="chapel">
         <br/>
         <br/>
@@ -106,16 +109,18 @@ const About = () => {
            <br />
           <div className="bio2">
             <p>
-               <b> Languages: </b> C++, Python, Java, JavaScript, Scheme
+               <b> Languages: </b> C++, C, Python, Java, HTML/CSS, JavaScript, SQL, Scheme, MIPS Assembly
               <br />
               <br />
-              <b> Libaries: </b> Pygame, NumPy, Requests, Matplotlib, pandas
+              <b> Libaries: </b> Pygame, NumPy, Requests, Matplotlib, MySQL, pandas, PySpark, PyMongo
               <br />
               <br />
-              <b> Web: </b> HTML, CSS, ReactJS, Bootstrap, Flask, Streamlit
+              <b> Technologies: </b> React Native, ReactJS, Flask, MongoDB, ExpressJS, NodeJS, Bootstrap, MinIO (AWS S3),
+               Firebase, Jest, Spark
+
              <br />
              <br />
-              <b> Miscellaneous: </b> Git, GitHub, LaTeX, Jupyter
+              <b> Miscellaneous: </b> Git, GitHub, LaTeX, Jupyter, Azure DevOps, Figma, Docker, Expo, Apple Testflight
              <br />
              <br />
              <b> Relevant Coursework: </b> Object-Oriented Programming, Data Structures & Algorithms,
