@@ -45,7 +45,7 @@ function Experience() {
           <img src={Eat100} width="110" height="110"/>
           <br></br>
           <b>  Eat 100 (T Square) </b>
-          </h3>ç
+          </h3>
           <p> Software Engineer Intern</p>
           <p> Jul. 2023 – Sep. 2023 (Remote) </p>
           <p> <strong> Skills: </strong>React Native, Firebase, Stripe API, Mobile Development </p>
