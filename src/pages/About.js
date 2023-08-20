@@ -36,9 +36,9 @@ const About = () => {
             <h1 className='h1'>
               Hi, I'm Philip 👋
             </h1>
-            <p className='text-[26px] lg:text-[36px] font-primary mb-4 lg:mb-12'>
-              I study Computer Science <br/> at Duke University
-            </p>
+              <p className='text-[26px] lg:text-[36px] font-primary mb-4 lg:mb-12'>
+                I study Computer Science <br/> at Duke University
+              </p>
             {/*<Link to={'/contact'} className='btn mb-[30px]'>*/}
             {/*  Remove This Button Maybe ? */}
             {/*</Link>*/}
@@ -104,7 +104,7 @@ const About = () => {
          <br />
          <br />
          <br />
-          <h1 className='h1White'>Techical Skills</h1>
+          <h1 className='h1White'>Technical Skills</h1>
            <br />
            <br />
           <div className="bio2">
