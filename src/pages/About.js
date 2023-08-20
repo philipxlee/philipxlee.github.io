@@ -112,7 +112,7 @@ const About = () => {
                <b> Languages: </b> C++, C, Python, Java, HTML/CSS, JavaScript, SQL, Scheme, MIPS Assembly
               <br />
               <br />
-              <b> Libaries: </b> Pygame, NumPy, Requests, Matplotlib, MySQL, pandas, PySpark, PyMongo
+              <b> Libraries: </b> Pygame, NumPy, Requests, Matplotlib, MySQL, pandas, PySpark, PyMongo
               <br />
               <br />
               <b> Technologies: </b> React Native, ReactJS, Flask, MongoDB, ExpressJS, NodeJS, Bootstrap, MinIO (AWS S3),
