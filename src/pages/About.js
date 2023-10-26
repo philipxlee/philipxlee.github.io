@@ -85,7 +85,7 @@ const About = () => {
               <br />
               Outside of working on my projects, I've interned at two tech firms. At HKPC, I worked on
               a full stack project involving data pipelines. At Eat 100, I worked on developing the payment 
-              gateway and implementing features for the mobile app.
+              gateway and implementing features for the mobile app. 
               <br />
               <br />
               In addition to programming, I enjoy playing basketball, following Formula 1,
@@ -116,15 +116,16 @@ const About = () => {
               <br />
               <br />
               <b> Technologies: </b> React Native, ReactJS, Flask, MongoDB, ExpressJS, NodeJS, Bootstrap, MinIO (AWS S3),
-               Firebase, Jest, Spark
+               Firebase, Spark
 
              <br />
              <br />
-              <b> Miscellaneous: </b> Git, GitHub, LaTeX, Jupyter, Azure DevOps, Figma, Docker, Expo, Apple Testflight
+              <b> Miscellaneous: </b> Git, GitHub, LaTeX, Jupyter, Azure DevOps, Expo, Apple Testflight
              <br />
              <br />
              <b> Relevant Coursework: </b> Object-Oriented Programming, Data Structures & Algorithms,
-                Computer Architecture, Linear Algebra, Discrete Maths, Probability, Calculus
+                Computer Architecture, Logic and Computation Theory, Mobile Development,
+                Advanced Software Design and Implementation, Linear Algebra, Discrete Maths, Probability, Calculus
               <br />
               <br />
               <br />

@@ -9,6 +9,7 @@ import WorkIcon from '@mui/icons-material/Work'; // use for Work experience
 import DukeLogo from '../img/experience/DukeLogo.png';
 import HKPCLogo from '../img/experience/HKPCLogo.jpg';
 import Eat100 from '../img/experience/Eat100.png';
+import DukeLogo2 from '../img/experience/DukeLogo2.jpg';
 
 function Experience() {
   return (
@@ -34,6 +35,26 @@ function Experience() {
         
         */}
 
+
+           <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date=""
+          contentArrowStyle={{borderRight: '15px solid', color: '#3e497a' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+      <img src={DukeLogo2} width="100" height="100"/>  
+        <br/>
+          <b> Duke Computer Science: Data Compression with AI </b>
+          </h3>
+       <p> Undergraduate Research Intern</p>
+          <p> Sep 2023 – Present </p> 
+          <p> <strong> Skills: </strong> Python, PyTorch, Large Language Models</p>
+        </VerticalTimelineElement> 
+
+        
+        
       <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date=""
