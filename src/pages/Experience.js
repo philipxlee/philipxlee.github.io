@@ -68,7 +68,7 @@ function Experience() {
           <b>  Eat 100 (T Square) </b>
           </h3>
           <p> Software Engineer Intern</p>
-          <p> Jul. 2023 – Sep. 2023 (Remote) </p>
+          <p> Jul. 2023 – Aug. 2023  </p>
           <p> <strong> Skills: </strong>React Native, Firebase, Stripe API, Mobile Development </p>
         </VerticalTimelineElement> 
 
@@ -87,7 +87,7 @@ function Experience() {
           <b>  Hong Kong Productivity Council </b>
           </h3>
           <p> Software Engineer Intern</p>
-          <p> Jun. 2023 – Aug. 2023 (On-site) </p>
+          <p> Jun. 2023 – Jul. 2023 </p>
           <p> <strong> Skills: </strong>Python, Delta Lake, Spark, React, MinIO (AWS S3 API) </p>
         </VerticalTimelineElement> 
 
