@@ -68,7 +68,7 @@ function Experience() {
           <b>  Eat 100 (T Square) </b>
           </h3>
           <p> Software Engineer Intern</p>
-          <p> Jul. 2023 – Aug. 2023  </p>
+          <p> Aug. 2023 – Sep. 2023  </p>
           <p> <strong> Skills: </strong>React Native, Firebase, Stripe API, Mobile Development </p>
         </VerticalTimelineElement> 
 
